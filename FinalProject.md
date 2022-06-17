@@ -18,6 +18,9 @@ No doubt, there should be an option of choosing the language for a particular vi
 As the museum is divided into parts and mostly the rooms are assigned for 1 user at a time, it might be hard for the school groups to come. Our idea is that these groups can be divided into subgroups (2-3 people) and go through the museum together group by group room by room.
 
 * Examples
+* The map of the museum
 ![The map of the museum](https://github.com/lizadat/IM_in_the_world/blob/5ab77e74d747995241dc70d404cf0d7c5d36cb6a/1.jpeg)
-
+* Screen to virtually observe a 3D model of the obejct
 ![Screen to virtually observe a 3D model of the obejct](https://github.com/lizadat/IM_in_the_world/blob/5ab77e74d747995241dc70d404cf0d7c5d36cb6a/2.jpeg)
+* The object and its 3D dublicate beside it
+![The object and its 3D dublicate beside it](https://github.com/lizadat/IM_in_the_world/blob/d56f85d5499e6c8d72f1622b3f281c9416ccc155/3.jpeg)
