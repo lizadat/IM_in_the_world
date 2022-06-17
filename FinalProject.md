@@ -27,3 +27,5 @@ As the museum is divided into parts and mostly the rooms are assigned for 1 user
 * The object and its 3D dublicate beside it
 
 ![The object and its 3D dublicate beside it](https://github.com/lizadat/IM_in_the_world/blob/d56f85d5499e6c8d72f1622b3f281c9416ccc155/3.jpeg)
+
+[The video-example of TikTok video presentation](https://youtu.be/MkY79g6Zh0w)
